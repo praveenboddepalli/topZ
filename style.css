@@ -1,0 +1,27 @@
+body{
+  align-items: center;
+  background-image: url(images/bg.jpg);
+  background-size: cover;
+}
+
+.topZ{
+  font-family: Fantasy;
+}
+
+.logo{
+  height: 100px;
+  margin: 70px 10px 10px 10px;
+  border-radius: 100%;
+}
+
+.p-2{
+color: white;
+border: none;
+background-color: grey;
+margin: 10px auto 10px auto ;
+border-radius: 50px;
+}
+
+.p-2:hover{background-color: white;}
+
+a:link {text-decoration: none;}
